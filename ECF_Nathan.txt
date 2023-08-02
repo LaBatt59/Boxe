@@ -1,0 +1,250 @@
+Contexte
+
+Un fan de boxe a besoin de créer un site et fait appel à vos services. Il souhaite un site sur les différents style de boxe ainsi que les meilleurs combattants du moment pour chaque discipline (top 3 par style de boxe). 
+
+Livrable :
+
+Maquette (mobile, pc et tablette)
+Site responsive (3 formats)
+MCD / MPD (screenshot via analyse SI)
+BDD relationnelle
+Panneau administration avec la possibilité de changer le top 3 de chaque style de boxe
+
+
+
+
+
+
+1.B/Anglaise
+2.B/Thaï
+3.Kickboxing
+4.B/Française
+
+
+								Anglaise:
+	
+
+	Poids Plumes:	WBC			WBA			IBF			WBO
+			Rey Vargas		Leigh Wood		Luis Lopez		Robeisy Ramirez
+			Josh Warrigton		Otabek Kholmatov	Reiya Abe		Joet Gonzalez
+			Nick Ball		Raymond Ford		Josh Warrington		Arnold Khegai
+
+Poids Super-Plumes:	WBC			WBA			IBF			WBO
+			O'Shaquie Foster	Hector Luis Garcia	Joseph Cordina		Emanuel Navarrete
+			Eduardo Fernandez	Lamont Roach		Shavkat Rakhimov	Oscar Valdez
+			Pablo Vicente		Otar Eranosyan		Anthony Cacace		Albert Bell
+
+	Poids Léger:	WBC			WBA			IBF			WBO
+			Devin Haney		Devin Haney		Devin Haney		Devin Haney
+			Vasiliy Lomachenko	Gervonta Davis		Gustavo Lemos		Shakur Stevenson
+			Shakur Stevenson	Isaac Cruz		Vasyl Lomachenko	Vasiliy Lomachenko
+
+Poids Super-Léger:	WBC			WBA			IBF			WBO
+			Regis Prograis		Rolando Romero		Subriel Matias		Teofimo Lopez
+			Sandor Martin		Alberto Puello		Shohjahon Ergashev 	Arnold Barboza
+			Josh Taylor		Ohara Davies		Jose Ramirez		Jose Ramirez
+
+Poids Mi-Moyen:		WBC			WBA			IBF			WBO
+			Errol Spence		Terence Crawford	Errol Spence Jr.	Terence Crawford
+			Keith Thurman		Elimantas Stannionis	Cody Crowley		Alexis Rocha
+			Cody Crowley		Vergil Ortiz		Mario Barrios		Cody Crowley
+
+Poids Super-Moyen:	WBC			WBA 			IBF			WBO
+			Jermell Charlo		Jermell Charlo		Jermell Charlo		Jermell Charlo
+			Brian Mendoza		Israil Madrimov		Bakhram Murtazaliev	Tim Tszyu
+			Charles Conwell		Magomed Kurbanov	Jack Culcay		Josh Kelly
+
+	Poids Moyen:	WBC			WBA			IBF			WBO
+			Jermell Charlo		Erislandy Lara		Vincenzo Gualtieri	Janibek Alimkhanuly
+			Carlos Adames		Michael Zerafa		Denis Radovan		Gennadiy Golovkin
+			Gennadiy Golovkin	Austin Wiliams		Andrei Mikhaillovich	Liam Smith
+
+Poids Mi-Lourd:		WBC			WBA			IBF			WBO
+			Artur Beterbiev		Dmitry Bivol		Artur Beterbiev		Artur Beterbiev
+			Callum Smith		Joshua Buatsi		Michael Eifert		Joshua Buatsi
+			Joshua Buatsi		Dan Azeez		Joshua Buatsi		Callum Smith
+
+Poids Lourds-Léger:	WBC			WBA			IBF			WBO
+			Badou Jack		A.Goulamirian		Jai Opetaia		Chris Billam Smith
+			Noel Gevor		Yuniel Dorticos		Richard Riakporhe	Richard Riakporhe
+			Ilunga Makabu		Alexey Egorov		Mairis Briedis		Michael Cieslak
+
+	Poids Lourds:	WBC			WBA			IBF			WBO
+			Tyson Fury		Oleksandr Usyk		Oleksandr Usyk		Oleksandr Usyk
+			Deontay Wilder		Daniel Dubois		Filip Hrgoviv		Zhilei Zhang
+			Andy Ruiz		Deontay Wilder		Deontay Wilder		Andy Ruiz
+
+
+								Kickboxings:
+
+	Poids Plumes:	WKF/ World Kickboxing Federation.
+			Alexey Ivanov
+			Yuri Trogiyanov
+			Carl Copestake
+
+
+	Poids Léger:	WKF
+			Mario Capllonch
+			Jose Luis Sanchez
+			Mbatta Ausi
+		
+Poids Super Léger:	WKF
+			Riccardo Cumani
+			Fatih Hasun
+			Michal Tomczykowski
+
+Poids Mi-Moyen:		WKF
+			Alessandro Rotunno
+			Jose Luis Saenz Borunda
+			Tomas Aguirre
+
+	Poids Moyen:	WKF
+			Dennis Romano Nyikeo
+			Jeffery Daka
+			Adriaktik Cami
+
+
+Poids Super-Moyen:	WKF
+			Valeriy Vygonskiy
+			Sergei Shigalev
+			Eddy Lacross
+
+Poids Mi-Lourds:	WKF
+			Shouao Wang
+			Giannis Fejzoullai
+			Stefanos Konstantelopoulos
+
+Poids Lourds-Léger:	WKF
+			Adam Pokorni
+			Andreas Bastron
+			Piotr Sokol
+
+Poids Lourds:		WKF
+			Rustam Ali Attrai
+			Dimitris Maliaris
+			Costin Mincu
+
+
+							B/Française:		
+
+	Poids Plumes:	FFBoxe
+			Jordan Rodriguez
+			Tony KIM Batreau
+			Christ Esabe
+
+Poids Super-Plumes:	FFBoxe
+			Youssef Benyahia
+			Khalil EL Hadri
+			Guillaume Frenois
+
+Poids Léger:		FFBoxe
+			Medhi Sellami
+			Meryl Vegas
+			Laid Douadi
+
+Poids Super-Léger:	FFBoxe
+			Ayoub EL Ghallouchi
+			Renald Garrido
+			Tamaz Adviev
+
+Poids Mi-Moyen:		FFBoxe
+			Moussa Gary
+			Jorick Luisetto
+			Issa Mourzaev
+
+Poids Moyen: 		FFBoxe
+			Farrhad Saad
+			Diégo Natchoo
+			Kalilou Dembele
+
+Poids Super-Moyen:	FFBoxe	
+			Salim Ben-rejeb
+			Mikael Mathieu
+			Steven Crambert
+
+Poids Mi-Lourds:	FFBoxe
+			Cyril Joly
+			Marlon Brun
+			Bilel Latreche
+
+Poids Lourds-Léger:	FFBoxe
+			Dylan Vautrain
+			Brandon Deslaurier
+			Nicolas Salsi
+
+Poids Lourds:		FFBoxe
+			Tony Yoka
+			Newfel Ouatah
+			David Spilmont
+
+
+						B/Thaï: IFMT/ International Fédération de Muay Thaï
+
+Poids Plumes:	AFMT
+		Nguyen Tran Duy Nhat
+		Almaz Sarsembekov
+		Darren Rolland
+		
+Poids Super-Plumes:
+		Superlek Jitmuangnon
+		Magnum Bangkokalaiyon
+		Yodtonghtai Sor Somai
+
+Poids Léger:
+		Asadula Imangazliev
+		Pongsathon Jaratariyacharoen
+		Lukas Mandinec
+
+Poids Super-Léger:
+		Superball TDed99
+		Igor Liubchenko
+		Sercon Koc
+
+Poids Mi-Moyen:
+		Capitaine Petchyindee
+		Narin Wonglakhon
+		Speth Norbert Atila
+
+Poids Moyen:
+		Daniel Rodriguez
+		Konstantin Chakhtarine
+		Thotsaphon Saophanao
+
+Poids Super-Moyen:
+		Jimmy Viennot
+		Mustafa Aboutaka
+		Jakub Rajewski
+
+Poids Mi-Lourds:
+		Assouik Youssef
+		Thatsaporn Saophanao
+		Magomed Magomedov
+
+Pois Lourds-Léger:
+		Aaron Ortiz
+		Mustafa AL Tekreeti
+		Diogo Palado
+
+Poids Lourds:
+		Oleh Primachov
+		Lukasz Radosv
+		Gadzhi Medzidov
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
